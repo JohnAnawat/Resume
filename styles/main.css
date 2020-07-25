@@ -7278,3 +7278,13 @@ a.credit {
 .border-pic{
   border-radius: 0.1875rem;
 }
+
+.border-portfolio{
+  border: solid;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+  border-color: #9A9A9A;
+  padding-bottom: 30px;
+}
